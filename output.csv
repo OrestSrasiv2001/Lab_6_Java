@@ -1,0 +1,8 @@
+getPriceOfTicket, getMaxNumberOfVisitors, Price of goods, getDangerLevel, age, weight, height
+100.0, 3, HIGH, 10, 65.0, 120.0
+getPriceOfTicket, getMaxNumberOfVisitors, Price of goods, getDangerLevel, area, location, numberAttractions
+120.0, 20, LOW, 2000.0, 51.3456, 4.5
+getPriceOfTicket, getMaxNumberOfVisitors, Price of goods, getDangerLevel, numberOfCars, name, typeOfCovering
+150.5, 20, MAXIMUM, 10, Mazda, Carbon
+getPriceOfTicket, getMaxNumberOfVisitors, Price of goods, getDangerLevel, speed, height, typeOfMaterial
+200.0, 50, MIDDLE, 100, 15, plastic
